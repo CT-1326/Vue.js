@@ -7,9 +7,9 @@ import 'aos/dist/aos.css';
 Vue.config.productionTip = false
 
 new Vue({
-  created() {
-    AOS.init({});
-  },
-  render: h => h(App),
-  router
+    created() {
+        AOS.init({});
+    },
+    render: h => h(App),
+    router
 }).$mount('#app')

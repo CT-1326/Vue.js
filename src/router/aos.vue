@@ -28,7 +28,7 @@
         :key="index"
         data-aos="fade-up"
         data-aos-delay="500"
-        data-aos-once="true"
+        data-aos-once="false"
         class="align-items-center col-sm-6 d-flex flex-column justify-content-center mb-5"
       >
         <img :src="getImg(item)" class="img-fluid mr-3" />
