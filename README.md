@@ -9,7 +9,7 @@ Learing Vue.js
     Vue v2.6.11
     
     Firebase-tools V8.1.1
-# Open-source library
+# Open-source libraries
 https://github.com/michalsnik/aos
 
     about AOS
