@@ -16,5 +16,9 @@ https://github.com/michalsnik/aos
 https://github.com/vuejs/vue-router
 
     about Vue-router
+    
+https://github.com/LeCoupa/vuedarkmode
+
+    about VueDarkMode
 # License
 This project is licensed under the MIT License - see the [Vue_JS/LICENSE](LICENSE)
