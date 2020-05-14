@@ -1,6 +1,6 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
-import Home from './HelloWorld.vue'
+import Home from './HelloWorld.vue';
 import NotFound from './notfound.vue';
 import Aos from './aos.vue';
 
