@@ -13,7 +13,7 @@
         color: white;
         margin-top: 60px;
     }
-    body{
+    body {
         background-color: #171E29;
     }
 </style>
