@@ -4,6 +4,7 @@ import Home from './HelloWorld.vue';
 import NotFound from './notfound.vue';
 import Aos from './aos.vue';
 import AosSample from './aos-sample';
+import todo_list from './todo_list';
 
 Vue.use(VueRouter);
 
@@ -22,6 +23,9 @@ const router = new VueRouter({
         }, {
             path: '/aos-sample',
             component: AosSample
+        }, {
+            path: '/todo',
+            component: todo_list
         }
     ]
 });
