@@ -11,6 +11,6 @@
         color: white;
     }
     body {
-        background-color: #171E29;
+        background-color: #18191A;
     }
 </style>
