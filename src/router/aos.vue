@@ -1,20 +1,22 @@
 <template>
   <article>
-    <section id="up" data-aos='fade-down'>
-      <img src="../assets/a.png" alt="a img">
-      <p>a img</p>
+    <section id="up" data-aos="fade-down">
+      <img src="../assets/icon-screening-cough.png" alt="a img">      
     </section>
-    <section data-aos='fade-down'>
-      <img src="../assets/b.png" alt="b img">
-      <p>b img</p>
+    <section id="up" data-aos="fade-down">
+      <img src="../assets/icon-screening-fever-chills.png" alt="b img">      
     </section>
-    <section id="up" data-aos='fade-down'>
-      <img src="../assets/c.png" alt="c img">
-      <p>c img</p>
+    <section id="up" data-aos="fade-down">
+      <img src="../assets/icon-screening-headache.png" alt="c img">      
     </section>
-    <section data-aos='fade-down'>
-      <img src="../assets/d.png" alt="d img">
-      <p>d img</p>
+    <section id="up" data-aos='fade-up'>
+      <img src="../assets/icon-screening-musclepain.png" alt="d img">      
+    </section>
+    <section id="up" data-aos='fade-up'>
+      <img src="../assets/icon-screening-senses.png" alt="e img">      
+    </section>
+    <section id="up" data-aos='fade-up'>
+      <img src="../assets/icon-screening-sorethroat.png" alt="f img">      
     </section>
   </article>
 </template>
@@ -22,6 +24,14 @@
 <style>
   #up {
     float: left;
-    margin-left: 5rem;
+    margin-left: 3rem;
+  }
+  img {
+    width: 500px; 
+    height: 500px;
+    opacity: 0.5;
+  }
+  img:hover {
+    opacity: 1.0;
   }
 </style>

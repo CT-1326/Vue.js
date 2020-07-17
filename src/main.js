@@ -10,7 +10,7 @@ Vue.use(VueDarkMode);
 
 new Vue({
     created() {
-        AOS.init({});
+        AOS.init({duration: 1500});
     },
     render: h => h(App),
     router
