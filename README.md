@@ -1,5 +1,5 @@
-# Vue_JS
-Learing Vue.js
+# VueJS
+Learing VueJS
 # Get Start
     > yarn
     > yarn serve
@@ -21,4 +21,4 @@ https://github.com/LeCoupa/vuedarkmode
 
     about VueDarkMode
 # License
-This project is licensed under the MIT License - see the [Vue_JS/LICENSE](LICENSE)
+This project is licensed under the MIT License - see the [VueJS/LICENSE](LICENSE)
