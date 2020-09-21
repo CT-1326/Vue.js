@@ -7,8 +7,6 @@ Learing VueJS
     Node.js v10.16.3
     
     Vue v2.6.11
-    
-    Firebase-tools V8.1.1
 # Open-source libraries
 https://github.com/michalsnik/aos
 
