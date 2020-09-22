@@ -9,7 +9,7 @@ import todo_list from './todo_list';
 Vue.use(VueRouter);
 
 const router = new VueRouter({
-    base : '/VueJS/',
+    base: '/VueJS/',
     mode: 'history',
     routes: [
         {

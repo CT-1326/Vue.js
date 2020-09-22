@@ -4,10 +4,10 @@
         <h3>This is the First page at vuejs</h3>
         <ul>
             <li>
-                <a id="text" href="/todo">To do list Sample</a>
+                <router-link id="text" to='/todo'>Todo list</router-link>
             </li>
             <li>
-                <a id="text" href="/aos">AOS Sample</a>
+                <router-link id="text" to='/aos'>AOS</router-link>
             </li>
         </ul>
     </div>
