@@ -12,7 +12,7 @@ const router = new VueRouter({
     mode: 'history',
     routes: [
         {
-            path: '/VueJS',
+            path: '/',
             component: Home
         }, {
             path: '*',
