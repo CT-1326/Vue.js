@@ -1,5 +1,5 @@
 # VueJS
-Learing VueJS
+vue create VueJS
 # Get Start
     > yarn
     > yarn serve
