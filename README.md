@@ -7,6 +7,8 @@ vue create VueJS
     Node.js v10.16.3
     
     Vue v2.6.11
+    
+    Vue-cli V4.2.3
 # Open-source libraries
 https://github.com/michalsnik/aos
 
